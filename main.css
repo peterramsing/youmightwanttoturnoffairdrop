@@ -48,12 +48,12 @@ a:focus {
   text-align: center;
 }
 
-.intro span {
+.intro h1 span {
   display: block;
 }
 
 @media (min-width: 769px) {
-  .intro span {
+  .intro h1 span {
     display: inline-block;;
   }
 }
