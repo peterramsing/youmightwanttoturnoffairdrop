@@ -58,6 +58,19 @@ a:focus {
   }
 }
 
+.intro--scroll {
+  display: none;
+}
+
+@media (min-width: 769px) {
+  .intro--swipe {
+    display: none;
+  }
+  .intro--scroll {
+    display: inline-block;
+  }
+}
+
 .airdrop-gif {
   margin: 75px 0;
 }
