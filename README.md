@@ -1,3 +1,5 @@
+[View Site](http://youmightwanttoturnoffairdrop.com/)
+
 A super simple site for helping secure iPhones...
 
 Feel free to submit or request changes or updates.
